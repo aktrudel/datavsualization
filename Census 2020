@@ -17,7 +17,7 @@
     <!-- PUT YOUR TITLE IN PLACE OF TITLE BELOW: -->
     <!-- ......  -->
 
-    <title>Trudel Article</title>
+    <title>An Epidemic Amidst a Pandemic</title>
 
     <!-- ... -->
     <!-- ... -->
@@ -49,7 +49,7 @@
         }
       }
     </style>
-    
+
     <!-- Custom styles for this template -->
     <link href="starter-template.css" rel="stylesheet" />
   </head>
@@ -89,7 +89,7 @@
 
             <li class="nav-item active">
               <a class="nav-link" aria-current="page" href="http://link"
-                >MYSTORY</a
+                >An Epidemic Amidst a Pandemic</a
               >
             </li>
 
@@ -107,32 +107,22 @@
         <!-- ... -->
         <!-- PAGE CONTENT STARTS HERE -->
         <!-- ... -->
-<a href="https://datawrapper.dwcdn.net/tm9f3/1/">Census Data 2020</a>
 
         <p><br /></p>
 
         <a name="top"></a>
 
         <h1>
-         U.S. Census Bureua Data 2022
+          The Pandemic's effects on the Nation's Opioid Crisis
         </h1>
-<a href="https://datawrapper.dwcdn.net/tm9f3/1/">Census Data 2020</a>
-       <p>
-          Addie Trudel, Features Writer
-   
-       <br>
-          Mar 29, 2022
-      <br>
 
         <p>
-        This is the population data from the 2022 U.S. Census.
+          America is concurrently fighting two historic battles at once, The COVID-19 pandemic and the long-faught Opioid Crisis; each with a deadly toll. The United State's tragic history with Opioid abuse has ravaged the country in many, many ways. Drug addiction affects everyone; not just the user themself, but also their family, friends, loved ones, community, etc. Opioid abuse and overdose rates have skyrocketed in the past two decades, according to data from the <a href="https://www.cdc.gov/">CDC</a>. Specifically, the <a href="https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm//">data</a> reflects a large growth rate in opioid-related overdoses resulting in death since the start of the pandemic in January 2020. 
         </p>
-<a href="https://datawrapper.dwcdn.net/tm9f3/1/">Census Data 2020</a>
-      
-        <p>
-          For more information, visit: <a href="https://www.census.gov/">US Census Bureau</a>
-        </p>
-
+<img src="https://postimg.cc/CzVTchqR"
+      width="400"
+          height="300" ></img>
+        
         <!-- ... -->
         <!-- END PAGE CONTENT -->
         <!-- ... -->
